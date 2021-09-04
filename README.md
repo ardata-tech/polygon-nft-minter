@@ -4,5 +4,3 @@
 <p align="center"><b>🏗️ Mint ERC721 or ERC1155 standard tokens on Polygon (Previously Matic Network)</b></p>
 
 Run the docker compose and deploy.
-
-For integration inquiries, email us at [info@proofsys.io](mailto:info@proofsys.io)
